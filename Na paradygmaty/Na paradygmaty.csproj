@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IAtak.cs" />
+    <Compile Include="Kusza.cs" />
+    <Compile Include="Noz.cs" />
+    <Compile Include="Pistolet.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
